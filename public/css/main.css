@@ -1,0 +1,17 @@
+#stream {
+  font-family: 'monaco', monospace;
+  white-space: pre;
+}
+
+#messages .text:nth-child(4n+1) {
+  color: blue;
+}
+#messages .text:nth-child(4n+2) {
+  color: green;
+}
+#messages .text:nth-child(4n+3) {
+  color: orange;
+}
+#messages .text:nth-child(4n+4) {
+  color: purple;
+}
